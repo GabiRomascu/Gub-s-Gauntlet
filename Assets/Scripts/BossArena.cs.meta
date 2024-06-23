@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d13d304d3b54e804a8b9a95799a6c1a9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {instanceID: 0}
+  - floorPrefab: {instanceID: 0}
+  - bossPrefab: {instanceID: 0}
+  - bossHealthBarCanvas: {instanceID: 0}
+  - boss: {fileID: 2684704028630508637, guid: 09f1fa1286e7c7f488d09af1206f5759, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b9db787ebfda3794d9e00c55ed4e199e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 7884964511079096354, guid: ac7426e5bfb4f7946830224adfed08da, type: 3}
+  - floor: {fileID: 351407193770764908, guid: 42bba278f34a9944e826c39f4017e923, type: 3}
+  - exit: {fileID: 8238767333929856879, guid: 48b59777ba418654fb2997e38e0bf34f, type: 3}
+  - doorPrefab: {fileID: 8742332781314769591, guid: bbd5c91baa83f4440bcb5420218f1da1, type: 3}
+  - tilePrefab: {fileID: 7936273420911413435, guid: 8a36589d7ae07054c95314b9f0bb632f, type: 3}
+  - singleShootingEnemyPrefab: {fileID: 5008930830181814285, guid: 02384308f102a0043a23a2cbbb752519, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
